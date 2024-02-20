@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @uskillsins
+- 👋 Hi, I’m Utkarsh
 - 👀 I’m interested in 10th Grade school (High School)
 - 🌱 I’m currently learning DATA SCIENCE
 - 💞️ I’m looking to collaborate on colab, github or anconda.org (PYTHON ONLY)
